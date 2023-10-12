@@ -1,4 +1,4 @@
-# Varun P. Gangadharan :wave:
+# Varun Gangadharan :wave:
 
 Hello! I'm Varun, a Software Engineer studying at the University of Illinois at Urbana-Champaign. I've had the privilege to intern at companies like Flow AI and Leidos where I've honed my skills in full-stack development and software engineering. With a Bachelor's degree in Computer Science and currently pursuing my Master's, I'm deeply passionate about creating efficient and user-friendly software solutions.
 
