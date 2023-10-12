@@ -8,5 +8,5 @@ Hello! I'm Varun, a Software Engineer studying at the University of Illinois at 
 
 
 ## 📬 **Let's Connect!**
-Feel free to reach out through [Email](mailto:varun.gangadharan.63@gmail.com), [LinkedIn](https://www.linkedin.com/in/varung63/), or check out my [Website](https://varungangadharan.com/). I'm always open to discussing new opportunities and collaborations.
+Feel free to reach out through my [email](mailto:varun.gangadharan.63@gmail.com), [LinkedIn](https://www.linkedin.com/in/varung63/), or check out my [Website](https://varungangadharan.com/)(hosted right on this Github!). I'm always open to discussing new opportunities and collaborations.
 
