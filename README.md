@@ -3,8 +3,8 @@
 Hello! I'm Varun, a Software Engineer studying at the University of Illinois at Urbana-Champaign. I've had the privilege to intern at companies like Flow AI and Leidos where I've honed my skills in full-stack development and software engineering. With a Bachelor's degree in Computer Science and currently pursuing my Master's, I'm deeply passionate about creating efficient and user-friendly software solutions.
 
 ## 🛠 **Tech Stack**
-- **Languages**: Java, C++, C, Python, JavaScript, HTML/CSS, SQL, Swift, MATLAB, R, MongoDB
-- **Technologies**: Git, AWS, Docker, Kubernetes, Vim, ReactJS
+- **Languages**: Python, C++, Java, C, JavaScript, HTML/CSS, SQL, Kornshell, Bash, MATLAB, R, MongoDB
+- **Technologies**: Git, AWS, ReactJS, Django, Docker, Kubernetes, Vim
 
 
 ## 📬 **Let's Connect!**
