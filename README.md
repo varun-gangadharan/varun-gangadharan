@@ -1,12 +1,10 @@
 # Varun Gangadharan :wave:
 
-Hello! I'm Varun, a Software Engineer studying at the University of Illinois at Urbana-Champaign. I've had the privilege to intern at companies like Flow AI and Leidos where I've honed my skills in full-stack development and software engineering. I have a Bachelor's degree in Computer Science and currently pursuing my Master's. I'm deeply passionate about creating efficient and user-friendly software solutions.
+Hello! I'm Varun, a Software Engineer at GEICO working on secrets management and secure developer tooling. I hold a B.S. and M.S. in Computer Science from the University of Illinois at Urbana-Champaign, and I love building efficient, user-friendly software.
 
 ## 🛠 **Tech Stack**
-- **Languages**: Python, C++, Java, C, JavaScript, HTML/CSS, SQL, Kornshell, Bash, MATLAB, R, MongoDB
-- **Technologies**: Git, AWS, ReactJS, Django, Docker, Kubernetes, Vim
-
+- **Languages**: Go, Python, JavaScript/TypeScript, C++, Java, C, SQL, Bash
+- **Technologies**: HashiCorp Vault, Kubernetes, Docker, React, Node.js, Django, AWS, Azure DevOps, Git
 
 ## 📬 **Let's Connect!**
 Feel free to reach out through my [email](mailto:varun.gangadharan.63@gmail.com), [LinkedIn](https://www.linkedin.com/in/varung63/), or check out my [website](https://varungangadharan.com/). I'm always open to discussing new opportunities and collaborations.
-
