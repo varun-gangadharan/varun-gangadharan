@@ -1,6 +1,6 @@
 # Varun Gangadharan :wave:
 
-Hello! I'm Varun, a Software Engineer at GEICO working on secrets management and secure developer tooling. I hold a B.S. and M.S. in Computer Science from the University of Illinois at Urbana-Champaign, and I love building efficient, user-friendly software.
+hi, i am varun, swe @ geico, i love building
 
 ## 🛠 **Tech Stack**
 - **Languages**: Go, Python, JavaScript/TypeScript, C++, Java, C, SQL, Bash
